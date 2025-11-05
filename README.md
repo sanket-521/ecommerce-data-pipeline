@@ -42,16 +42,16 @@ The data is structured using a **Star Schema** to enable efficient analytical qu
 ### 📁 Data Lake Overview
 ![S3 Overview](Screenshots/s3_overview.png)
 
-### 📂 Raw Zone
+### 📂 Raw Layer
 ![Raw Zone](Screenshots/s3_raw.png)
 
-### 📂 Staging Zone
+### 📂 Staging Layer
 ![Staging Zone](Screenshots/s3_staging.png)
 
-### 📂 Curated Zone
+### 📂 Curated Layer
 ![Curated Zone](Screenshots/s3_curated.png)
 
-### 📂 Warehouse Zone
+### 📂 Warehouse Layer
 ![Warehouse Zone](Screenshots/s3_warehouse.png)
 
 Each folder represents a **data zone** in the pipeline:  
