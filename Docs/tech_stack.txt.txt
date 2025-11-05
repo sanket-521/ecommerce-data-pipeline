@@ -1,0 +1,6 @@
+AWS S3 – Data Lake Storage
+AWS Glue (PySpark) – ETL Processing
+Databricks – Data Modeling & Transformation
+Power BI – Visualization & Reporting
+Python, SQL, PySpark – Languages
+Parquet – File Format
